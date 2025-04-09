@@ -40,3 +40,5 @@ flowchart LR
     B5-->B52
     B5-->B53
 ```
+
+**使用springboot 多模块构建**
